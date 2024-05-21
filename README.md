@@ -1,5 +1,3 @@
-Sure, here's the updated README with the project link section included:
-
 # Excel Data Analysis Project
 
 ## Project Overview
